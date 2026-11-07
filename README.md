@@ -275,6 +275,10 @@ The Packt repository distributes its Chapter 5 materials under the MIT License. 
 
 OpenAI ChatGPT was used as a supporting tool for language refinement, selected code assistance, troubleshooting, and some plotting and diagram code. The authors reviewed and verified AI-assisted suggestions against the source code, datasets, saved artefacts and cited literature. The authors executed the reported experiments and retain responsibility for the methodology, interpretation, scientific integrity and final publication.
 
+## My contribution
+
+I coauthored this honours research with Arjun Ramphal. The [thesis](thesis/COMP700_Thesis.pdf) records equal contributions to conceptualisation, methodology, software, validation, formal analysis, investigation, data curation, visualisation, and writing and revision.
+
 ## Project Team
 
 - **Arjun Ramphal**  -  project author and contact  -  [223005056@stu.ukzn.ac.za](mailto:223005056@stu.ukzn.ac.za)
