@@ -1,12 +1,15 @@
 # Smart Home Appliance Identification Using Deep Learning
 
+**[Open in Colab](https://colab.research.google.com/github/DarianRobert/Smart-Home-Appliance-Identification/blob/master/COMP700_Project.ipynb)** · **[Read the thesis](thesis/COMP700_Thesis.pdf)** · **[Reproduction guide](USER_MANUAL.md)**
+
 Reproducible COMP700 Honours project for identifying ten known smart-home IoT appliance classes from payload-independent engineered network-traffic features.
 
 The project audits and reconstructs the publisher-defined dataset split, tunes and compares five neural architectures and a Random Forest, evaluates validation-selected artefacts on one fixed held-out set, interprets the selected CNN-BiLSTM using SHAP, converts the neural models to FP32 LiteRT, and profiles prepared-input inference on x86_64 and ARM64 CPUs.
 
 ## Project Links
 
-- Source repository: <https://github.com/ArjunRamphal/smart-home-appliance-identification-using-deep-learning>
+- My portfolio repository: <https://github.com/DarianRobert/Smart-Home-Appliance-Identification>
+- Original team repository: <https://github.com/ArjunRamphal/smart-home-appliance-identification-using-deep-learning>
 - Downloadable project folder: <https://drive.google.com/drive/folders/1_4Buza9xsp1shH3ZOvl8a-PHOVBsUwmt?usp=drive_link>
 - Packt dataset source: <https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook/tree/master/Chapter05/IoT%20Device%20Type%20Identification%20Using%20Machine%20Learning>
 - Equivalent Kaggle copy: <https://www.kaggle.com/datasets/fanbyprinciple/iot-device-identification>
@@ -195,10 +198,10 @@ Honours_Project/Honours_Project/
 1. Download the complete inner `Honours_Project` folder from the public Drive link.
 2. Extract all ZIP archives while preserving their folder hierarchy.
 3. Upload `Honours_Project` directly to the root of your own **My Drive**.
-4. Open `COMP700_Project.ipynb` in Google Colab.
+4. [Open `COMP700_Project.ipynb` in Google Colab](https://colab.research.google.com/github/DarianRobert/Smart-Home-Appliance-Identification/blob/master/COMP700_Project.ipynb).
 5. Run **Google Drive Setup**.
 6. Read the notebook's **How to Run** guide.
-7. Follow either the saved-artefact route or full-reproduction route described in `USER_MANUAL.md`.
+7. Follow either the saved-artefact route or full-reproduction route described in [USER_MANUAL.md](USER_MANUAL.md).
 
 Do not use **Run all** unless you intentionally want to retrain every model and recompute the complete SHAP workflow.
 
@@ -280,3 +283,4 @@ OpenAI ChatGPT was used as a supporting tool for language refinement, selected c
 - **Prof. Mluleki Bryan Sinqadu**  -  supervisor  -  [SinqaduM@ukzn.ac.za](mailto:SinqaduM@ukzn.ac.za)
 
 School of Mathematics, Statistics and Computer Science, University of KwaZulu-Natal, South Africa.
+

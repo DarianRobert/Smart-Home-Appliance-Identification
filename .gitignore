@@ -1,0 +1,15 @@
+# Local Python and notebook state
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Generated experiments are retained in the documented Drive layout
+/Models/
+/ARM_Profiling_Bundles/

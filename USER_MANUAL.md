@@ -76,7 +76,7 @@ Avoid creating an additional wrapper level.
 
 Clone or download:
 
-<https://github.com/ArjunRamphal/smart-home-appliance-identification-using-deep-learning>
+<https://github.com/DarianRobert/Smart-Home-Appliance-Identification>
 
 The repository contains the notebook, documentation and thesis material. Large experimental artefacts remain in the public Drive distribution.
 
@@ -775,3 +775,4 @@ GPU-backed TensorFlow training is not guaranteed to be byte-for-byte identical a
 OpenAI ChatGPT was used as a supporting tool for language refinement, selected code assistance, troubleshooting, and some plotting and diagram code. The authors reviewed and verified AI-assisted suggestions against the source code, datasets, saved experimental artefacts and cited literature.
 
 The authors executed the reported experiments and retain responsibility for the methodology, interpretation, scientific integrity and final publication.
+
