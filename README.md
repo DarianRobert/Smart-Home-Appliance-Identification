@@ -288,3 +288,7 @@ I coauthored this honours research with Arjun Ramphal. The [thesis](thesis/COMP7
 
 School of Mathematics, Statistics and Computer Science, University of KwaZulu-Natal, South Africa.
 
+
+## Code readability
+
+The notebook uses consistent Python formatting and concise section comments. The original experiment logic, saved outputs and model settings are preserved; formatting has not been used to regenerate the reported results. Colab setup and dataset paths are documented in the notebook.
